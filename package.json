@@ -1,5 +1,5 @@
 {
-  "name": "express-skeleton",
+  "name": "@fsdfs/fsdfs",
   "version": "0.0.1",
   "description": "Express.JS API skeleton",
   "main": "./lib/index.js",

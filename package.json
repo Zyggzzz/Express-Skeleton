@@ -1,6 +1,6 @@
 {
   "name": "@dsadsaa/test",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Express.JS API skeleton",
   "main": "./lib/index.js",
   "author": {
